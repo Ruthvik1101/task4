@@ -1,1 +1,1 @@
-# task4
+In my Business Dashboard, I analyzed a total of $13M in sales, 178K units sold, and $1.47M in profit. The Consumer segment leads with 30.14% of profits, and Technology is the top sales category. Phones, Copiers, and Chairs dominate sub-category sales. Sales grew steadily until peaking in 2014, with most orders shipped via Standard Class and stronger sales observed in the US and Europe. Sales quantity trends show a peak at lower volumes.
